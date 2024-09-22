@@ -1,4 +1,4 @@
-package com.password.generator.passwordGenerator;
+package com.password.generator.password;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

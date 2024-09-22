@@ -11,7 +11,7 @@
 	<groupId>com.password.generator</groupId>
 	<artifactId>password-generator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>passwordGenerator</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
